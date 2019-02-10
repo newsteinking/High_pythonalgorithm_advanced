@@ -3,13 +3,14 @@ Python Algorithms Advanced
 
     Python Algorithms Advanced
 
-      written by sean base on following books
+      written by sean base on following site
+            https://visualgo.net/
 
 .. image:: ./img/chapter0_4.png
 
 .. image:: ./img/chapter0_5.png
 
-`Github <https://github.com/newsteinking/High_pythonalgorithm_advanced>`_ | https://github.com/newsteinking/High_pythonalgorithm_advanced
+`Github <https://visualgo.net/>`_ | https://visualgo.net/
 
 
 
@@ -29,8 +30,19 @@ Python Algorithms Advanced
    chapter10
    chapter11
    chapter12
-
-
+   chapter13
+   chapter14
+   chapter15
+   chapter16
+   chapter17
+   chapter18
+   chapter19
+   chapter20
+   chapter21
+   chapter22
+   chapter23
+   chapter24
+   chapter25
 
 
 

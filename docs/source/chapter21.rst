@@ -1,29 +1,9 @@
-chapter 21: Project 2: Painting a Pretty Picture
+chapter 21: Computational Geometery(POLYGON)
 ===================================================
 
 
 
-21.1 What’s the Problem?
----------------------------
+21.1 Computational Geometery(POLYGON)
+------------------------------------------
 
-
-
-21.2 Useful Tools
--------------------
-
-
-21.3 Preparations
-----------------------
-
-
-21.4 First Implementation
-------------------------------
-
-
-21.5 Second Implementation
------------------------------
-
-
-21.6 Further Exploration
------------------------------
 

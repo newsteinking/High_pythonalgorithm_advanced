@@ -4,7 +4,7 @@ Chapter 0: About
   Python Algorithms Advanced Curriculm
 
                         by sean
-   Base on  Data Structures and Algorithms with Python
+        https://visualgo.net/
 .. image:: ./img/chapter0_5.png
 
 .. _default_args:
