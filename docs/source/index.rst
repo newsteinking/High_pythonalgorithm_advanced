@@ -1,7 +1,7 @@
-Python Algorithms Advanced
+Python Algorithms Training Advanced
 ===============================
 
-    Python Algorithms Advanced
+    Python Algorithms Training Advanced
 
       written by sean base on following site
             https://github.com/xuelangZF/LeetCode
