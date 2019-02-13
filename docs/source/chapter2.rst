@@ -1,4 +1,4 @@
-chapter 2: Bit Manipulation
+chapter 2: Backtracking
 =======================================
 
 

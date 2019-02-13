@@ -1,4 +1,4 @@
-chapter 1: Sorting
+chapter 1: Array
 =======================================
 
 

@@ -4,7 +4,7 @@ Chapter 0: About
   Python Algorithms Advanced Curriculm
 
                         by sean
-        https://visualgo.net/
+        https://github.com/xuelangZF/LeetCode
 .. image:: ./img/chapter0_5.png
 
 .. _default_args:

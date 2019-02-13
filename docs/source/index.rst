@@ -4,13 +4,13 @@ Python Algorithms Advanced
     Python Algorithms Advanced
 
       written by sean base on following site
-            https://visualgo.net/
+            https://github.com/xuelangZF/LeetCode
 
 .. image:: ./img/chapter0_4.png
 
 .. image:: ./img/chapter0_5.png
 
-`Github <https://visualgo.net/>`_ | https://visualgo.net/
+`Github <https://github.com/newsteinking/High_pythonalgorithms_training_advanced>`_ | https://github.com/newsteinking/High_pythonalgorithms_training_advanced
 
 
 
@@ -41,8 +41,7 @@ Python Algorithms Advanced
    chapter21
    chapter22
    chapter23
-   chapter24
-   chapter25
+ 
 
 
 

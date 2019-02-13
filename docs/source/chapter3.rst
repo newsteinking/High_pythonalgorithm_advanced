@@ -1,4 +1,4 @@
-chapter 3: Linked List
+chapter 3: BinarySearch
 ====================================
 
 

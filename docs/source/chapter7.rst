@@ -1,5 +1,5 @@
-chapter 7: Binary Search Tree
-================================
+chapter 7: Depth First Search
+====================================
 
 
 
